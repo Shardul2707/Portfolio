@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My CV</title>
+        <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+<link href="cv.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <!--Intro-->
+        <div class="intro">
+            <img src="Passport-size Photo.jpeg" alt = "" height="100" width="100px" </img>
+            <div class="heading">Shardul Vinay Khanang</div>
+            <div class="prof">Student</div>
+            <div class="summary">I am Student of Government Engineering College, Raipur and currently enrolled in B.Tech CSE 3rd Semester.</div>
+        </div>
+        <!--Contact Information-->
+        <div class="contactinfo">
+            <div class="icon">
+                <div class="fas fa-map-signs"></div>
+            </div>
+            <div class="data">
+                Padmanabhpur, Durg 
+            </div>
+            <div class="icon">
+                <div class="fas fa-mobile-alt"></div>
+            </div>
+            <div class="data">
+                +91-9302282857
+            </div>
+            <div class="icon">
+                <div class="fas fa-envelope"></div>
+            </div>
+            <div class="data">
+                shardul.vk13@gmail.com
+            </div>
+        </div>
+        <!--Skills Section-->
+        <div class="subheading">Skills</div>
+        <div class="skills">
+            <ul>
+                <li>
+                    <div class="skill_name">
+                        Mathematical Reasoning
+                    </div>
+                    <div class="skill_prog">
+                        <span style="width: 95%;"></span>
+                    </div>
+                    <div class="skill_per">95%</div>
+                </li>
+                <li>
+                    <div class="skill_name">
+                        Logical Reasoning
+                    </div>
+                    <div class="skill_prog">
+                        <span style="width: 90%;"></span>
+                    </div>
+                    <div class="skill_per">90%</div>
+                </li>
+                <li>
+                    <div class="skill_name">
+                        C Language
+                    </div>
+                    <div class="skill_prog">
+                        <span style="width: 80%;"></span>
+                    </div>
+                    <div class="skill_per">80%</div>
+                    </li>
+                     <li>
+                    <div class="skill_name">
+                        Web Development
+                    </div>
+                    <div class="skill_prog">
+                        <span style="width: 60%;"></span>
+                    </div>
+                    <div class="skill_per">60%</div>
+                </li>                    
+            </ul>
+        </div>
+        <!--Experience/Education-->
+        <div class="subheading">Education</div>
+        <div class="explist">
+            <ul>
+                <li>
+                    <div class="date"> 2019</div> 
+                    <div class="jobinfo">
+                        <div class="jobtitle">Class X CBSE Board Exam</div> 
+                    <div class ="jobdesc">From D.A.V Public School, Hudco, Bhilai and secured 94.6%</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="date">2021</div> 
+                    <div class="jobinfo">
+                        <div class="jobtitle">Class XII CBSE Board Exam</div> 
+                    <div class ="jobdesc">From D.A.V Public School, Hudco, Bhilai and secured 94.2%</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="date">2021-2025</div> 
+                    <div class="jobinfo">
+                        <div class="jobtitle">Pusuing B.Tech in CSE</div> 
+                    <div class ="jobdesc">From Government Engineering College, Raipur, Chhattisgarh,India</div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <!--Social-->
+        <div class="subheading">Social</div>
+        <div class="social">
+            <a href="https://www.facebook.com/shardul.vinaykhanang.1" target="_blank">
+                <div class = "icon">
+                    <div class="fab fa-facebook-square">Facebook</div>
+                </div>
+            </a>
+             <a href="twitterlink" target="_blank">
+                 <div class = "icon">
+                     <span style="padding-left:10px;"></span>
+                     <div class="fab fa-twitter-square">Twitter</div>
+                 </div>
+             </a>
+             <a href="https://www.linkedin.com/in/shardul-vinay-khanang-0279b51b0" target="_blank">
+                 <div class="icon">
+                     <span style="padding-left:10px;"></span>
+                     <div class="fab fa-linkedin">LinkedIn</div>
+                </div>
+             </a>
+            <a href="githublink" target="_blank">
+                <div class = "icon">
+                    <span style="padding-left:10px;"></span>
+                  <div class="fab fa-github">Github</div>
+                </div>
+             </a>
+        </div>
+    </body>
+</html>
